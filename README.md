@@ -66,11 +66,10 @@
  
  **CODE**   
  
-'''python   
- def hii():    
-      print("hii..welcome")     
-'''
-
+```python
+def hii():
+     print("hi...welcome to github")   
+```
 **emojis**
 
 :blush:
